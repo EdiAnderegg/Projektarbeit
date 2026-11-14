@@ -55,7 +55,7 @@ Keine zusätzlichen Pflichtkapitel, keine frei erfundenen Kennzahlen.
 ## Projektvorgaben, die zu respektieren sind
 
 - Interdisziplinäres Ausbildungsprojekt: drei Softwareentwickler und drei Systemtechniker.
-- Ein sinnvoller IoT-Bezug mit externen Schnittstellen ist erforderlich.
+- Ein sinnvoller Bezug mit externen Schnittstellen ist erforderlich.
 - Der zusätzliche Hardwarebedarf muss später gegen das im Modul genannte Budget (ca. CHF 300–500, abhängig vom Pitch) geprüft werden; **noch keine Kosten zusichern**.
 - Geplanter Meilenstein für die Expertenpräsentation: **11.01.2027**.
 - Die **individuelle Ideensammlung** ist nicht der Experten-Pitch und nicht die detaillierte Machbarkeitsanalyse.
