@@ -1,4 +1,4 @@
-# AGENTS.md – Ideensammlung (sechs eigenständige IoT-Ideen)
+# AGENTS.md – Ideensammlung (sechs eigenständige Ideen)
 
 ## Geltungsbereich und Auftrag
 
